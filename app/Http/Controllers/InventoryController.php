@@ -12,7 +12,7 @@ class InventoryController extends Controller
         $products = [
             [
                 'id' => 1,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000', // ✅ added image
+                'image' => 'https://m.media-amazon.com/images/I/51qBQiorM-L._UY1000_.jpg', // ✅ added image
                 'name' => "Men's Pro Long Sleeve",
                 'description' => "Performance Shirt in DezTek Lite",
                 'status' => 'Draft',
@@ -32,7 +32,7 @@ class InventoryController extends Controller
             ],
             [
                 'id' => 2,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000',
+                'image' => 'https://i.pinimg.com/474x/50/19/34/5019340bdb0c9a3301702c1ea368840f.jpg',
                 'name' => "Women's Pro Long Sleeve",
                 'description' => "Performance Shirt in DezTek Lite",
                 'status' => 'Active',
@@ -52,7 +52,7 @@ class InventoryController extends Controller
             ],
             [
                 'id' => 3,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000',
+                'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzU37kynpGWI45fJr-nDsZxs5aYKXJnrorEA&s',
                 'name' => "Men's Short Sleeve",
                 'description' => "Performance Shirt in CoolTech Fabric",
                 'status' => 'Active',
@@ -73,7 +73,7 @@ class InventoryController extends Controller
 
                [
                 'id' => 4,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000',
+                'image' => 'https://www.woolly.clothing/cdn/shop/files/amazon-studio-2022-w-everyday-tank-char-front-sabrina-1.jpg?v=1721767156&width=2000',
                 'name' => "Woman's Tank Top",
                 'description' => "Breathable Fabric",
                 'status' => 'Active',
@@ -94,8 +94,8 @@ class InventoryController extends Controller
 
                    [
                 'id' => 5,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000',
-                'name' => "Men;s Full Zip",
+                'image' => 'https://m.media-amazon.com/images/I/71e7NHokc-L._UY1000_.jpg',
+                'name' => "Men's Full Zip",
                 'description' => "Windrbraker Jacket",
                 'status' => 'Active',
                 'inventory' => '34 In Stock for 12 variants',
@@ -115,7 +115,7 @@ class InventoryController extends Controller
 
                    [
                 'id' => 6,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000',
+                'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW1PyDf0VGJzVUNj7EJdAybo2HyLzp3xqMQq5r1kLhilgupWgFjCn4Wk74EA_hN_PWSaY&usqp=CAU',
                 'name' => "Women's Lightweight",
                 'description' => "Hoodie in soft fleece",
                 'status' => 'Active',
@@ -135,7 +135,7 @@ class InventoryController extends Controller
                 ],
                 [
                 'id' => 7,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000',
+                'image' => 'https://cdn11.bigcommerce.com/s-62tlfv23od/images/stencil/1280x1280/products/483/6024/0801MR_Black_1__51047.1709826087.1280.1280__78584.1749848513.jpg?c=1',
                 'name' => "Men's Compression",
                 'description' => "Sleeve Top",
                 'status' => 'Active',
@@ -155,7 +155,7 @@ class InventoryController extends Controller
                 ],
                 [
                 'id' => 8,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000',
+                'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDybQsT04MTFRtaqF-V-qTz89WCHYi6bCTA&s',
                 'name' => "Women's Running",
                 'description' => "Shorts with Pockets",
                 'status' => 'Active',
@@ -175,9 +175,9 @@ class InventoryController extends Controller
                 ],
                 [
                 'id' => 9,
-                'image' => 'https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595&width=1000',
+                'image' => 'https://www.under510.com/cdn/shop/files/pace-joggers-for-short-men-from-under510-black-1.jpg?v=1748448722&width=2336',
                 'name' => "Men's Jogger",
-                'description' => "Pants in Performans Fabric",
+                'description' => "Pants in Performance Fabric",
                 'status' => 'Active',
                 'inventory' => '98 In Stock for 25 variants',
                 'description1'=> 'Last Update - 25 AUG 25',
