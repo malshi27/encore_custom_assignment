@@ -252,7 +252,7 @@
       }
 
       .table th, .table td {
-        white-space: normal; /* ✅ show all columns in mobile */
+        white-space: normal; /*  show all columns in mobile */
       }
 
       .product-img {

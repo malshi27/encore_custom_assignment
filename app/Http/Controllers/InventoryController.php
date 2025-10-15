@@ -12,7 +12,7 @@ class InventoryController extends Controller
         $products = [
             [
                 'id' => 1,
-                'image' => 'https://m.media-amazon.com/images/I/51qBQiorM-L._UY1000_.jpg', // ✅ added image
+                'image' => 'https://m.media-amazon.com/images/I/51qBQiorM-L._UY1000_.jpg', 
                 'name' => "Men's Pro Long Sleeve",
                 'description' => "Performance Shirt in DezTek Lite",
                 'status' => 'Draft',
